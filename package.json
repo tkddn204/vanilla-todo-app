@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-todo-app",
+  "author": "rightpair",
+  "description": "todo app with vanilla js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "light-server -s ."
+  },
+  "devDependencies": {
+    "light-server": "^2.7.0"
+  },
+  "private": "true",
+  "license": "MIT"
+}
